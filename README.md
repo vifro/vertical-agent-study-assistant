@@ -1,4 +1,11 @@
 # Vertical Study Agent Proof-of-Concept
+## TODO: Add functionality
+Download transcript, ask which questions are most likely to come up on the exam. Find different ways to to prompt for new information, given the transscrupts, and then create questions around that. 
+
+So questions would then become 
+* General questions, about everything
+* topics & questions most likely on the exam.
+* * Generate for each topic and questions. 
 
 ## Overview
 
